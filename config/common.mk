@@ -79,20 +79,8 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     VoiceDialer \
     SoundRecorder \
-<<<<<<< HEAD
     SpeechRecorder \
     Basic
-=======
-    Basic \
-    HoloSpiralWallpaper \
-    MagicSmokeWallpapers \
-    NoiseField \
-    Galaxy4 \
-    LiveWallpapers \
-    LiveWallpapersPicker \
-    VisualizationWallpapers \
-    PhaseBeam
->>>>>>> upstream/ics
 
 # Custom CM packages
 PRODUCT_PACKAGES += \
