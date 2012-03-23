@@ -41,7 +41,7 @@ Maintainers:
 * Star (LG Optimus 2/G2x): arcee, cyanogen
 * Galaxy S (GT-I9000): coolya, codeworkx, atinm, GuiperPT, Unhelpful
 * Captivate (SGH-I896/SGH-I897): atinm, Unhelpful, coolya, codeworkx
-* Vibrant (SGH-T959): coolya, atinm, codeworkx, Unhelpful
+* Vibrant (SGH-T959): FaultException
 * Vivo (Incredible S): Kali-, attn1
 * Vivow (Incredible 2): Kali-, attn1
 * Jordan (Defy): Quarx, Epsylon3, maniac103
@@ -53,7 +53,7 @@ Maintainers:
 * Droid2we (Droid2 Global): RevNumbers, x13thangelx
 * V9 (ZTE Light, Optus MyTab, others): kallt_kaffe and Tom Giordano
 * Motus (Backflip) : j_r0dd, flavio_frow
-* Saga (Desire S): Nexx
+* Saga (Desire S): Nexx, nk111
 * Galaxy Tab 10.1: cyanogen, pershoot
 * Galaxy Tab 8.9: kallt_kaffe
 
