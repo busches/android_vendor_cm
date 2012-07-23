@@ -1,9 +1,7 @@
 PRODUCT_BRAND ?= cyanogenmod
 
-ifneq ($(TARGET_BOOTANIMATION_NAME),)
-    PRODUCT_COPY_FILES += \
-        vendor/cm/prebuilt/common/bootanimation/$(TARGET_BOOTANIMATION_NAME).zip:system/media/bootanimation.zip
-endif
+PRODUCT_COPY_FILES += \
+    vendor/cm/prebuilt/common/bootanimation/bootanimation-haters.zip:system/media/bootanimation.zip
 
 ifdef CM_NIGHTLY
 PRODUCT_PROPERTY_OVERRIDES += \
