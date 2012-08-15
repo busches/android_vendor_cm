@@ -89,7 +89,6 @@ PRODUCT_PACKAGES += \
 
 # Optional CM packages
 PRODUCT_PACKAGES += \
-#    VideoEditor \
     VoiceDialer \
     SoundRecorder
 
@@ -109,7 +108,6 @@ PRODUCT_PACKAGE_OVERLAYS += vendor/cm/overlay/common
 PRODUCT_VERSION_MAJOR = 10
 PRODUCT_VERSION_MINOR = 0
 PRODUCT_VERSION_MAINTENANCE = 0-RC0
-
 
 # Set CM_BUILDTYPE
 ifdef CM_NIGHTLY
