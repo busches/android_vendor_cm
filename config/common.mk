@@ -1,7 +1,9 @@
 PRODUCT_BRAND ?= cyanogenmod
 
-PRODUCT_COPY_FILES += \
-    vendor/cm/prebuilt/common/bootanimation/bootanimation-haters.zip:system/media/bootanimation.zip
+ifneq ($(TARGET_BOOTANIMATION_NAME),)
+    PRODUCT_COPY_FILES += \
+        vendor/cm/prebuilt/common/bootanimation/$(TARGET_BOOTANIMATION_NAME).zip:system/media/bootanimation.zip
+endif
 
 ifdef CM_NIGHTLY
 PRODUCT_PROPERTY_OVERRIDES += \
@@ -101,7 +103,7 @@ PRODUCT_PACKAGES += \
     e2fsck \
     mke2fs \
     tune2fs
-    
+
 # rsync
 PRODUCT_PACKAGES += \
     rsync
