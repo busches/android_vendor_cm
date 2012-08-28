@@ -150,6 +150,9 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     rsync
 
+# Include EN dictionary
+PRODUCT_PACKAGE_OVERLAYS += vendor/cm/overlay/dictionaries/packages/inputmethods/LatinIME/java/res/raw/main_en.dict
+
 #PRODUCT_PACKAGE_OVERLAYS += vendor/cm/overlay/dictionaries
 PRODUCT_PACKAGE_OVERLAYS += vendor/cm/overlay/common
 
