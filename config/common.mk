@@ -1,6 +1,5 @@
 PRODUCT_BRAND ?= cyanogenmod
 
-
 # To deal with CM9 specifications
 # TODO: remove once all devices have been switched
 ifneq ($(TARGET_BOOTANIMATION_NAME),)
@@ -150,10 +149,7 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     rsync
 
-# Include EN dictionary
-PRODUCT_PACKAGE_OVERLAYS += vendor/cm/overlay/dictionaries/packages/inputmethods/LatinIME/java/res/raw/main_en.dict
-
-#PRODUCT_PACKAGE_OVERLAYS += vendor/cm/overlay/dictionaries
+# PRODUCT_PACKAGE_OVERLAYS += vendor/cm/overlay/dictionaries
 PRODUCT_PACKAGE_OVERLAYS += vendor/cm/overlay/common
 
 PRODUCT_VERSION_MAJOR = 10
