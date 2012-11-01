@@ -138,7 +138,8 @@ PRODUCT_PACKAGES += \
 
 # Custom CM packages
 PRODUCT_PACKAGES += \
-    Trebuchet
+    Trebuchet \
+    CMFileManager
 
 # Extra tools in CM
 PRODUCT_PACKAGES += \
