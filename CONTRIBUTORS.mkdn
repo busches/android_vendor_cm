@@ -7,6 +7,7 @@ Maintainers (CyanogenMod 10):
 * __Asus EeePad Transformer (TF101):__ Bumble-Bee, EnJens
 * __Asus EeePad Transformer Prime (TF201):__ Bumble-Bee, EnJens
 * __Asus EeePad Transformer Pad TF300T:__ xplodwild
+* __B&N NookColor (encore):__ eyeballer, fattire, keyodi, krylon360, sluo (NookieDevs)
 * __Google Galaxy Nexus:__ , bekit, Bumble-Bee, burnsra, KalimochoAz
 * __Google Nexus S:__ burnsra, KalimochoAz
 * __Google Nexus 7:__ 
@@ -22,6 +23,7 @@ Maintainers (CyanogenMod 10):
 * __Samsung Epic 4G (SPH-D700):__ bbelos, Decad3nce, mkasick, UberPinguin (Team Epic)
 * __Samsung Fascinate / Mesmerize (SCH-I500):__ jt1134, sbrissen
 * __Samsung Galaxy Note (GT-N7000):__ Entropy512, Espenfjo
+* __Samsung Galaxy Note II (GT-N7100):__ nebkat
 * __Samsung Galaxy Note 10.1 (GT-N80XX):__ Entropy512, Espenfjo
 * __Samsung Galaxy S Blaze 4G (SGH-T769):__ UberPinguin
 * __Samsung Galaxy S (GT-I9000):__ pawitp
